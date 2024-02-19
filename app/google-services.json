@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976518094747",
+    "project_id": "quizn9",
+    "storage_bucket": "quizn9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976518094747:android:c5fe3585470d4b1cd74b3e",
+        "android_client_info": {
+          "package_name": "com.example.quizn9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIPrGq4vEojP_BIH1YsK8vIBby0JS7DL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
